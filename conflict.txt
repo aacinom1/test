@@ -1,1 +1,3 @@
 testing merge conflict
+
+conflict file
